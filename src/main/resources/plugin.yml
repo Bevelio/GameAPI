@@ -1,7 +1,7 @@
 name: GameAPI
 version: 1.0
 main: xyz.jadonfowler.gameapi.GameAPI
-author: https://github.com/phase
+authors: [jadonfowler, Bevelio]
 description: An API above all APIs.
 commands:
   hub:
