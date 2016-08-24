@@ -1,4 +1,12 @@
 # GameAPI
+# Review on the Game Api...
+It's confusing like he says it is... but it has taught me some import things such as making how the game can be created clear by extending a object.
+1. Avoid a large number of unclear lists.
+2. Game class should be extended.
+3. Just run and it'll work.
+4. include a working example.
+5. Set game time length.
+6. Explain each function.
 
 This is a pretty amazing GameAPI that combines the Overcast Network & Mineplex game systems.
 
